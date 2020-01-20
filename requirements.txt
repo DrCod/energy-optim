@@ -1,0 +1,8 @@
+numpy==1.15.0
+pandas==0.23.3
+tensorflow ==1.15
+keras==2.2.2
+matplotlib==2.2.2
+gunicorn==19.9.0
+starlette
+joblib
